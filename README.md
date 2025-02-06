@@ -1,4 +1,4 @@
-# PINN-Guided-Dual-Backbone-Network-with-KMeans-Prior-for-Remote-Sensing-Building-Change-Detection
+# MVLCD: A Multi-Modal Vision-Language Change Detection Framework with Physics-Informed Neural Networks for Remote Sensing
 This repository provides code implementations for two innovative frameworks designed for remote sensing building change detection. These frameworks aim to address challenges in:
 
 Complex scene understanding
