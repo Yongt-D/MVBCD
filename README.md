@@ -1,4 +1,4 @@
-# BCD-PINN: Vision-Language Building Change Detection with Physics-Informed Neural Networks
+# MVBCD: A Multi-modal Vision-Language Framework for Building Change Detection in Remote Sensing
 This repository provides code implementations for two innovative frameworks designed for remote sensing building change detection. These frameworks aim to address challenges in:
 
 Complex scene understanding
