@@ -11,8 +11,6 @@ Features
 
 Easy-to-use code structure.
 
-Optimized for training on limited labeled data.
-
 Includes tools for evaluation and visualization.
 
 Coming Soon
@@ -24,9 +22,5 @@ License
 [Soon to be launched]
 
 Contact
-
-For questions or collaborations, please reach out to:
-
-[Soon to be launched]
 
 [Soon to be launched]
